@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '25572'
     url: http://www.gutenberg.org/2009/agents/25572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38432#The-FijiansA-Study-of-the-Decay-of-Custom
 gutenberg_issued: '2011-12-28'
 gutenberg_type: Text
 identifiers:
